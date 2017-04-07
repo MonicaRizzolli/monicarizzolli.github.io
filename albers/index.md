@@ -1,3 +1,3 @@
 albers
 
-<div style="text-align:center"><script src="//cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.8/p5.js"></script> <script src="02.js"></script></div>
+<p style="text-align:center;"><script src="//cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.8/p5.js"></script> <script src="02.js"></script></p>

@@ -13,7 +13,7 @@ html {
   box-sizing: border-box;
   font-family: "Monospace", Courier New;
   font-size: calc(16px + 0.25vw);
-  line-height: 1.4;
+  line-height: 1.0;
   -webkit-font-kerning: normal;
           font-kerning: normal;
   text-rendering: optimizeLegibility;

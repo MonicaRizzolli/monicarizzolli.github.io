@@ -79,7 +79,7 @@ small {
 .h0 {
   font-size: 2em;
   line-height: 1.0em;
-  margin-top: 1.5rem;
+  margin-top: 1.0rem;
   margin-bottom: 0.5rem;
   position: relative;
 }
@@ -91,7 +91,7 @@ h4,
 h5,
 h6 {
   line-height: 1.0em;
-  margin-top: 1.5rem;
+  margin-top: 1.0rem;
   margin-bottom: 0.5rem;
   font-weight: 600;
   position: relative;

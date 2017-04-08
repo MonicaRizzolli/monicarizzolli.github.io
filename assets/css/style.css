@@ -84,10 +84,6 @@ small {
   position: relative;
 }
 
-.h7 {
- text-align: center;  
-}
-
 h1,
 h2,
 h3,
@@ -136,6 +132,12 @@ h5 {
 h6 {
   font-size: 0.8em;
   color: #575757;
+}
+
+.centerscript {
+ width: 100%;
+ margin: 0 auto;
+ text-align: center;
 }
 
 p {

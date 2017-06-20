@@ -1,1 +1,1 @@
-
+Olá, sou Monica Rizzolli, artista plástica, amante de café e ficção científica, apaixonada por [objetos antigos](http://lista.mercadolivre.com.br/_CustId_237040508) e [quase-programadora](http://arteprog.space/).

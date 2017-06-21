@@ -140,7 +140,7 @@ p {
 }
 
 a {
-  background-color: transparent;
+  background-color: black;
   -webkit-text-decoration-skip: objects;
   color: black;
   text-decoration: none;

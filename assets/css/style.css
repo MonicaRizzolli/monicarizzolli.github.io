@@ -26,7 +26,11 @@ html {
 
 body {
   margin: 10;
+  padding: 0; 
 }
+
+canvas {vertical-align: top ; padding-left: 0 ; padding-right: 0 ; margin-left: auto ; margin-right: auto ; display: block} 
+
 
 article,
 aside,

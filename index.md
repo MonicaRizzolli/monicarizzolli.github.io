@@ -1,5 +1,2 @@
-Olá, sou Monica Rizzolli, artista plástica, amante de café e ficção científica, apaixonada por [objetos antigos](http://lista.mercadolivre.com.br/_CustId_237040508) e [artista-programadora](http://arteprog.space/).
-
-Sou graduada em Artes Plásticas pelo Instituto de Artes da UNESP e possuo especialização em desenho pela Kunsthochschule Kassel (Alemanha), na classe Johannes Spehr. Desde 2012 participo de projetos internacionais como MAK Center Artists and Architects (EUA), Creatives in Residence (China), Sweet Home (Espanha) e A.I.R. DRAWinternational (França). Em 2015 recebi o prêmio MAK Schindler, do MAK-Viena. Entre outras coisas, organizo com Alexandre Villares a [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing), no Garoa Hacker Clube.
-
-[quatro cantos](/quatro-cantos/index.md) ![casa](https://github.com/MonicaRizzolli/monicarizzolli.github.io/blob/master/assets/imagens/casa.jpeg?raw=true) [corpos na paisagem, corpos são paisagem](/paisagem/index.md)
+[Arteprog](http://arteprog.space/).
+[Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing)
